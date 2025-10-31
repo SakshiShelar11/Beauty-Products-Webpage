@@ -34,6 +34,6 @@ A modern, responsive React.js Beauty Products Webpage for premium beauty and ski
 - 🔥 React Hooks
 
 ### 🏠 Home Page
-![Home Page](./screenshots/Home.png)
+![Home Page](./Screenshots/Home.png)
 *Beautiful hero section with featured products*
 
