@@ -32,3 +32,8 @@ A modern, responsive React.js Beauty Products Webpage for premium beauty and ski
 - 🛣️ React Router DOM
 - 🎯 Context API
 - 🔥 React Hooks
+
+### 🏠 Home Page
+![Home Page](./screenshots/Home.png)
+*Beautiful hero section with featured products*
+
